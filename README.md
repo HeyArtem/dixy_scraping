@@ -1,7 +1,7 @@
 # Скрапинг данных сайт продуктового ритейлера Dixy <br/>https://dixy.ru/catalog/
 
 
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/HeyArtem/dixy_scraping/blob/main/picture_dixy.png "Текст заголовка логотипа 1")
 
 
 
